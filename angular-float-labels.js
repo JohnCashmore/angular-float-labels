@@ -2,7 +2,7 @@
   'use strict';
 
   angular.module('angular-float-labels', [])
-    .directive('placeholder', function($parse) {
+    .directive('floatplaceholder', function($parse) {
       return {
         restrict: 'A',
         link: function($scope, $element, $attrs) {
