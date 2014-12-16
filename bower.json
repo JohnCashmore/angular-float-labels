@@ -5,7 +5,7 @@
     "angular-float-labels.js",
     "angular-float-labels.css"
   ],
-  "homepage": "https://github.com/chrisronline/angular-float-labels",
+  "homepage": "https://github.com/JohnCashmore/angular-float-labels",
   "license": "MIT",
   "dependencies": {
     "angular": ">=1",
